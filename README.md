@@ -1,5 +1,5 @@
 # Discipline-DataCite
-(英語）
+(英語)
 This project aims to support metadata interoperability between domain-specific formats (like EML) and DataCite metadata schema, in order to enhance dataset findability and reuse.
 Through this project, we explore the feasibility and applicability of converting various domain-specific metadata formats to DataCite metadata schema.
 We promote the use of the six mandatory items defined by DataCite as a common minimum standard for metadata annotation.
