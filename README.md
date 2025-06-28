@@ -13,8 +13,7 @@ This repository provides a collection of XSLT stylesheets for transforming disci
 
 # XSLT Stylesheets　（Update 2025-06-28）
 - `EML2datacite.xslt`: Converts EML metadata to DataCite format.
-- `EML2datacite.xslt`: EML メタデータを DataCite 形式に変換します。
-- 
+
 # Project Structure
 discipline-datacite/
 ├── README.md
