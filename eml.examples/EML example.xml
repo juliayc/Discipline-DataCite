@@ -1,0 +1,40 @@
+<eml:eml packageId="example.1.1"
+         system="exampleSystem"
+         xmlns:eml="eml://ecoinformatics.org/eml-2.2.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.2.0 eml.xsd">
+
+  <dataset>
+    <!-- identifier -->
+    <alternateIdentifier>doi.org/10.12345/test.metadata.20250628</alternateIdentifier>
+
+    <!-- title -->
+    <title>An example of properties in EML metadata</title>
+
+    <!-- creator -->
+    <creator>
+      <individualName>
+        <givenName>EML</givenName>
+        <surName>metadata</surName>
+      </individualName>
+    </creator>
+
+    <!-- publisher -->
+    <publisher>
+      <individualName>
+        <givenName>System</givenName> <!-- creatorとpublisherの区別 -->
+        <surName>Eco</surName>
+      </individualName>
+      <organizationName>Nagoya University</organizationName>
+    </publisher>
+
+    <!-- publicationYear -->
+    <pubDate>2025.06.05</pubDate>
+
+    <!-- resourceType（EMLでは明示的な要素なし → 何で対応すれば良いなのか、要検討　例えば、 entityNameやintellectualRightsで補完） -->
+    <intellectualRights>
+      <para>Dataset; Open access under CC-BY 4.0 license.</para>
+    </intellectualRights>
+  </dataset>
+
+</eml:eml>
