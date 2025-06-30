@@ -21,4 +21,10 @@ If you have any questions or inquiries, please feel free to contact us at cong.y
 本研究の一部は、「AI等の活用を推進する研究データエコシステム構築事業」からの助成を受けて実施されました。
 ご質問やご不明な点がございましたら、どうぞお気軽に cong.y@nagoya-u.jp までご連絡ください。
 
+# Authors
+名古屋大学の学術データ管理・公開・利活用>[ルール・ガイドライン整備チーム!](https://rdm.nagoya-u.ac.jp/html/team/)
+[問い合わせ!](https://rdm.nagoya-u.ac.jp/contact/)
+
+# license
+This project is licensed under the MIT License - see the LICENSE file for details.
 
