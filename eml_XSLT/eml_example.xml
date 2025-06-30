@@ -1,6 +1,6 @@
 <eml:eml packageId="example.1.1"
          system="exampleSystem"
-         xmlns:eml="eml://ecoinformatics.org/eml-2.2.0"
+         xmlns:eml="https://eml.ecoinformatics.org/schema/eml-2.1.1"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="eml://ecoinformatics.org/eml-2.2.0 eml.xsd">
 

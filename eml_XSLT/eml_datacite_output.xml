@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="https://schema.datacite.org/meta/kernel-4/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:eml="https://eml.ecoinformatics.org/schema/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:orcid="http://www.orcid.org/ns/orcid" xmlns:datacite="https://schema.datacite.org/meta/kernel-4/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <identifier identifierType="DOI"/>
+  <creators>
+    <creator>
+      <creatorName>EML metadata</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>An example of properties in EML metadata</title>
+  </titles>
+  <publisher>System Eco</publisher>
+  <publicationYear>2025</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+  <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Dataset; Open access under CC-BY 4.0 license.</rights>
+</resource>
