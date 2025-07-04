@@ -4,8 +4,8 @@ import shutil
 
 # ファイル名定義
 xsl_file = "eml2datacite.xsl"
-input_xml = "eml_example.xml"
-output_xml = "eml_datacite_output.xml"
+input_xml = "example_eml.xml"
+output_xml = "datacite_output_eml.xml"
 
 
 def check_xsltproc():
