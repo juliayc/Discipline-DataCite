@@ -4,16 +4,15 @@ This project aims to support metadata interoperability between domain-specific f
 Through this project, we explore the feasibility and applicability of converting various domain-specific metadata formats to DataCite metadata schema.
 We promote the use of the six mandatory items defined by DataCite as a common minimum standard for metadata annotation.
 This repository provides a collection of XSLT stylesheets for transforming disciplinary metadata into the DataCite metadata schema. 
-
 (日本語)
 本プロジェクトは、EMLなどの分野別メタデータからDataCiteメタデータスキーマへの互換性を検討し、研究データの発見性と再利用性を高めることを目的としています。
 本プロジェクトを通じて、さまざまな分野特有のメタデータ形式をDataCiteに変換する際の可能性と実用性を検討しています。
 また、DataCiteメタデータスキーマにおける6つの必須項目を、共通の最小標準の記述メタデータとして推奨しています。
 このリポジトリは、分野別メタデータを DataCite メタデータスキーマに変換するための XSLT スタイルシート集を提供します。
 
-# XSLT Stylesheets　（Update 2025-06-28）
+# XSLT Stylesheets　（Update 2025-10-18）
 - `EML2datacite.xslt`: Converts EML metadata to DataCite format.
-
+- `TEI2datacite.xslt`: Converts TEI metadata to DataCite format.
 #
 This work was partially supported by the "Project for Building a Research Data Ecosystem Promoting the Use of AI and Related Technologies."
 Feel free to submit issues or pull requests if you'd like to add support for additional metadata formats or improve the current stylesheets.
