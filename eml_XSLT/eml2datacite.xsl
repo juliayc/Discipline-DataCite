@@ -34,7 +34,7 @@
             </creatorName>
             <xsl:if test="organizationName">
               <affiliation>
-                <xsl:value-of select="rganizationName"/>
+                <xsl:value-of select="organizationName"/>
               </affiliation>
             </xsl:if>
           </creator>
